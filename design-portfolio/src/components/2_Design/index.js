@@ -14,22 +14,22 @@ export default function Design(){
     	        {/*header*/}
     	     	<div className="max-w-screen-2xl mx-auto flex justify-between items-center font-inter-regular text-sm py-5">
     	     		<div className="flex gap-12">
-    	     		  <div>
+    	     		  <div className="cursor-pointer">
     	     		     <img src={logo}/>
     	     		  </div>
     	     		  <div className="hidden md:block">
-		    	     	  <div className="flex gap-8">
-		    	     		 <div>Features</div>
-		    	     		 <div>Company</div>
-		    	     		 <div>Careers</div>
-		    	     		 <div>About</div>
+		    	     	  <div className="flex gap-8 text-gray-500">
+		    	     		 <div className="cursor-pointer hover:text-black">Features</div>
+		    	     		 <div className="cursor-pointer hover:text-black">Company</div>
+		    	     		 <div className="cursor-pointer hover:text-black">Careers</div>
+		    	     		 <div className="cursor-pointer hover:text-black">About</div>
 		    	     	  </div>
 	    	     	  </div>
     	     		  </div>
     	     		<div className="hidden md:block">
-    	     		    <div className="flex items-center gap-8">
-    	     		    	<div>Login</div>
-    	     		    	<div className="px-4 py-2 border border-black rounded-2xl">Register</div>
+    	     		    <div className="flex items-center gap-8 text-gray-500">
+    	     		    	<div className="cursor-pointer hover:text-black">Login</div>
+    	     		    	<div className="px-4 py-2 border border-black rounded-2xl hover:text-white hover:bg-black cursor-pointer">Register</div>
     	     		    </div>
     	     		</div>
     	     		<div className="block md:hidden">
@@ -40,7 +40,7 @@ export default function Design(){
     	     	<div className="max-w-6xl mx-auto flex flex-col-reverse md:flex-row gap-12 justify-between pl-0 md:pl-10 mt-10">
     	     	    <div className="grid">
     	     	    	<div className="flex flex-col justify-end gap-10">
-	    	     	    	<div className="font-inter-extrabold text-4xl flex justify-center md:justify-start lg:text-7xl">Make remote work</div>
+	    	     	    	<div className="font-inter-extrabold text-3xl md:text-4xl lg:text-7xl flex justify-center md:justify-start">Make remote work</div>
 	    	     	    	<div className="flex justify-center text-center md:justify-start md:text-left">
 		    	     	    	<p className="font-inter-regular opacity-80 flex-wrap w-10/12">
 		    	     	    	  Get your team in sync. no matter your location.
@@ -48,7 +48,7 @@ export default function Design(){
 		                          and watch productivity soar.
 		    	     	    	</p>
 	    	     	    	</div>
-	    	     	    	<div className="flex justify-center md:justify-start"><button className="border border-black text-lg font-inter-bold px-4 py-2 rounded-2xl">Learn More</button></div>
+	    	     	    	<div className="flex justify-center md:justify-start"><button className="border border-black text-lg font-inter-bold px-4 py-2 hover:text-white hover:bg-black rounded-2xl">Learn More</button></div>
 	    	     	    </div>
     	     	        <div className="flex items-end gap-10 justify-center md:justify-start mt-10">
     	     	           <div><img src={audiophile}/></div>
