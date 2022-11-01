@@ -77,7 +77,7 @@ export default function Design(){
                       <img className="h-32" src={top_laptop} />
                       <div className="grid gap-2">
                         <div className="font-inter-bold text-4xl text-gray-500 opacity-70">02</div>
-                        <div className="font-inter-bold lg:text-sm text-lg hover:text-red-500 cursor-pointer">Top 10 Laptops of 2022</div>
+                        <div className="text-lg lg:text-sm font-inter-bold hover:text-red-500 cursor-pointer">Top 10 Laptops of 2022</div>
                         <div className="text-sm lg:text-xs font-inter-regular">Our best picks for various need and budgets.</div>
                       </div>
                    </div>
@@ -85,7 +85,7 @@ export default function Design(){
                       <img className="h-32" src={gaming_growth} />
                       <div className="grid gap-2">
                         <div className="font-inter-bold text-4xl text-gray-500 opacity-70">03</div>
-                        <div className="lg:text-sm font-inter-bold text-lg hover:text-red-500 cursor-pointer">The Growth of Gaming</div>
+                        <div className="text-lg lg:text-sm font-inter-bold hover:text-red-500 cursor-pointer">The Growth of Gaming</div>
                         <div className="text-sm lg:text-xs font-inter-regular">How the pandemic has sparked fresh opportunities.</div>
                       </div>
                    </div>
