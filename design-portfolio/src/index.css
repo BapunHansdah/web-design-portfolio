@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'inter-bold';
+	src: url('./components/1_Design/assets/fonts/static/Inter-Bold.ttf');
+}
+@font-face {
+	font-family: 'inter-extrabold';
+	src: url('./components/1_Design/assets/fonts/static/Inter-ExtraBold.ttf');
+}
+@font-face {
+	font-family: 'inter-regular';
+	src: url('./components/1_Design/assets/fonts/static/Inter-Regular.ttf');
+}
+
+body{
+	background-color: #FDFDBD;
+}
