@@ -26,6 +26,7 @@ module.exports = {
       'C8FFD4':'#C8FFD4',
       'B1AFFF':'#B1AFFF',
       '006E7F':'#006E7F',
+      'FDFDBD':'#FDFDBD',
       inherit: colors.inherit,
       current: colors.current,
       transparent: colors.transparent,
