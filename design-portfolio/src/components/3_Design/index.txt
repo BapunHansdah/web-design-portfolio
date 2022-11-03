@@ -1,0 +1,135 @@
+    	   {/*bg-3-design-header bg-cover bg-no-repeat bg-center*/}
+    	   <div className="max-w-[1440px] mx-auto">
+    	        {/*<div className="absolute opacity-50"><img src={Design_3} /></div>*/}
+    	        <div className="bg-3-design-header">
+	               {/* <header className="max-w-[1440px] absolute w-full mx-auto flex justify-between px-10 m-9">
+	    	           <div className="flex items-center">
+	    	           	  <div className="flex items-center"><img className="w-40" src={logo} /></div>
+	    	           </div>
+	    	           <div className="">
+	    	              <div className="flex gap-[50px] items-center font-Barlow text-white">
+	    	                 <div>About</div>
+	    	                 <div>Services</div>
+	    	                 <div>Projects</div>
+	    	                 <div className="py-3 px-8  bg-white text-black  rounded-2xl font-Fraunces font-bold">Contact</div>
+	    	              </div>
+	    	           </div>
+	    	        </header>*/}
+	    	        {/*<div className="max-w-[1440px] absolute w-full text-center flex justify-center mt-48 tracking-custom_wide_hero text-5xl font-Fraunces font-black text-white">
+	    	        	<div>WE ARE CREATIVES</div>
+	    	        </div>
+	    	        <div className="max-w-[1440px] w-full flex justify-center absolute mt-80">
+	    	        	<img src={icon_arrow}/>
+	    	        </div>*/}
+    	            {/*<img src={header}/>    	            */}
+
+    	        </div>
+    	       {/* <div className="grid grid-cols-2">
+    	            <div className="relative">           
+    	            	<div className="absolute w-full font-Fraunces p-32 font-black text-4xl">Transform your brand</div>
+    	            	<div className="absolute top-[270px] w-full  p-32 font-Barlow text-gray-400 font-semibold text-lg">
+    	            		<p>We are full service creative agency specializing in helping brands grow fast. engage your client through
+    	            		   compelling visulas that do most of the marketing for you
+    	            		</p>
+    	            	</div>
+    	            	<div className="absolute top-[390px] p-32 font-Fraunces font-bold text-xl">learn more</div>
+    	            </div>
+    	            <div><img src={transform}/></div> 	
+    	        </div>
+    	        <div className="grid grid-cols-2">
+    	            <div><img src={standout}/></div> 	
+    	            <div className="relative">           
+    	            	<div className="absolute top-[155px]  font-Fraunces font-black  text-4xl">Standout to the right audience</div>
+    	            	<div className="absolute top-[270px]   font-Barlow text-gray-400 font-semibold text-lg">
+    	            		<p>Using collaborative formula of designers, researchers , photographers ,videographers and copywriters , we will build
+    	            		  and extend your brand in digital places.
+    	            		</p>
+    	            	</div>
+    	            	<div className="absolute top-[390px] font-Fraunces font-bold text-xl ">learn more</div>
+    	            </div>
+    	        </div>
+    	        <div className="grid grid-cols-2">
+    	            <div><img src={graphicsdesign}/></div> 	
+    	            <div><img src={photography}/></div> 	
+    	        </div>*/}
+    	        {/*testimonial*/}
+    	       {/* <div className="max-w-5xl mx-auto">
+	    	        <div className="flex justify-center uppercase font-extrabold mt-36 tracking-custom_wide text-lg text-gray-400 font-Fraunces">Client Testimonials</div>
+	    	        <div className="grid grid-cols-3 gap-14 h-[555px]">
+	    	                  <div className="grid relative">
+	    	                    <div className="absolute top-20 flex justify-center w-full"><img className="rounded-full h-16 w-16" src={emily} /></div>
+	    	           	        <div className="absolute top-[200px]"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">We put our trust in Sunnyside and they delivered,making sure our needs were met and deadline were always meet</p></div>
+	    	           	        <div className="absolute top-[350px] flex flex-col gap-2 justify-center w-full">
+	    	           	            <div className="flex justify-center font-black text-[17px] text-gray-900 font-Fraunces">Emily R.</div>
+	    	           	            <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Marketing Director</div>
+	    	                    </div>
+	    	                 </div>
+
+	    	                 <div className="grid relative">
+	    	                    <div className="absolute top-20 flex justify-center w-full"><img className="rounded-full h-16 w-16" src={thomas} /></div>
+	    	           	        <div className="absolute top-[200px]"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">Sunnyside's enthuasiasam coupled with their keen interest in our brand's success made it a satisfying ans enjoyable experience</p></div>
+	    	           	        <div className="absolute top-[350px] flex flex-col gap-2 justify-center w-full">
+	    	           	            <div className="flex justify-center font-black text-[17px] text-gray-900 font-Fraunces">Thomas S.</div>
+	    	           	            <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Chief operating officer</div>
+	    	                    </div>
+	    	                 </div>
+
+	    	                 <div className="grid relative">
+	    	                    <div className="absolute top-20 flex justify-center w-full"><img className="rounded-full h-16 w-16" src={jennie} /></div>
+	    	           	        <div className="absolute top-[200px]"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">Incredible end result! Our sales Increased over 400% when we worked wit SunnySide. Higly recommanded</p></div>
+	    	           	        <div className="absolute top-[350px] flex flex-col gap-2 justify-center w-full">
+	    	           	            <div className="flex justify-center font-black text-[17px] text-gray-900 font-Fraunces">Jennie F.</div>
+	    	           	            <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Business Owner</div>
+	    	                    </div>
+	    	                 </div>
+	    	        </div>
+
+    	        </div>*/}
+    	        {/*</div>*/}
+    	        {/*gallery*/}
+    	{/*        <div className="flex wrap">
+    	        	<div><img src={gallerymilkbottles}/></div>
+    	        	<div><img src={galleryorange}/></div>
+    	        	<div><img src={gallerycone}/></div>
+    	        	<div><img src={gallerysugarcubes}/></div>
+    	        </div>
+    	        <div className="h-[350px] max-w-[1440px] flex flex-col justify-center items-center relative">
+
+    	         <div className="flex justify-center font-Barlow text-[35px] font-black absolute top-[50px]">sunnyside</div>
+    	         <div className="flex justify-center gap-14 font-Barlow text-[16px] font-bold relative -top-[17px]">
+    	         	<div>About</div>
+    	         	<div>Services</div>
+    	         	<div>Projects</div>
+    	         </div>
+    	         <div className="flex justify-center gap-6 font-Barlow text-xl font-extrabold relative top-[63px]">
+    	         	<div><img src={iconfacebook}/></div>
+    	         	<div><img src={iconinstagram}/></div>
+    	         	<div><img src={icontwitter}/></div>
+    	         	<div><img src={iconpinterest}/></div>
+    	         </div>
+    	        </div>*/}
+    	        {/*<div className="h-96"></div>*/}
+    	   </div>
+
+    	   {/* <div className="h-screen">
+    	        <header className="max-w-[1440px] mx-auto flex justify-between items-center p-7 border">
+    	           <div className="">
+    	           	  <div className="flex items-center"><img src={logo} /></div>
+    	           </div>
+    	           <div className="">
+    	              <div className="flex gap-10 items-center text-white">
+    	                 <div>About</div>
+    	                 <div>Services</div>
+    	                 <div>Projects</div>
+    	                 <div className="py-2 bg-white text-black px-4 rounded-2xl font-Fraunces font-bold">Contact</div>
+    	              </div>
+    	           </div>
+    	        </header>
+
+    	        <div className="flex justify-center items-center border mt-16">
+    	            <div className="font-Fraunces text-6xl font-bold uppercase tracking-widest text-white">We are creatives</div>
+    	        </div>
+    	        <div className="flex justify-center items-center border mt-28">
+    	          <img src={icon_arrow}/>
+    	        </div>
+    	    </div>*/}

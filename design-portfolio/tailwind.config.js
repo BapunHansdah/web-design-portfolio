@@ -17,7 +17,28 @@ module.exports = {
       fontFamily:{
         'inter-bold':['inter-bold','bold'],
         'inter-extrabold':['inter-extrabold','extrabold'],
-        'inter-regular':['inter-regular','regular']
+        'inter-regular':['inter-regular','regular'],
+        Rampart: ["Rampart One", "cursive"],
+        Barlow:["Barlow","regular"],
+        Fraunces:["Fraunces","regular"]
+      },
+      backgroundImage: {
+        '3-design-header': "url('./components/3_Design/assets/images/desktop/image-header.jpg')",
+        '3-design-transform':"url('./components/3_Design/assets/images/desktop/image-transform.jpg')",
+        '3-design-stand-out':"url('./components/3_Design/assets/images/desktop/image-stand-out.jpg')",
+        '3-design-photography':"url('./components/3_Design/assets/images/desktop/image-photography.jpg')",
+        '3-design-graphics-design':"url('./components/3_Design/assets/images/desktop/image-graphic-design.jpg')",
+
+        '3-design-header-mobile': "url('./components/3_Design/assets/images/mobile/image-header.jpg')",
+        '3-design-transform-mobile':"url('./components/3_Design/assets/images/mobile/image-transform.jpg')",
+        '3-design-stand-out-mobile':"url('./components/3_Design/assets/images/mobile/image-stand-out.jpg')",
+        '3-design-photography-mobile':"url('./components/3_Design/assets/images/mobile/image-photography.jpg')",
+        '3-design-graphics-design-mobile':"url('./components/3_Design/assets/images/mobile/image-graphic-design.jpg')",
+
+      },
+      letterSpacing: {
+        custom_wide:'.26em',
+        custom_wide_hero:'.25em'
       }
     },
     colors: ({ colors }) => ({
@@ -27,6 +48,17 @@ module.exports = {
       'B1AFFF':'#B1AFFF',
       '006E7F':'#006E7F',
       'FDFDBD':'#FDFDBD',
+      'white-custom':"#2596be",
+      'Very-dark-desaturated-blue': 'hsl(212, 27%, 19%)',
+       'Very-dark-grayish-blue': 'hsl(213, 9%, 39%)',
+       'Dark-grayish-blue': 'hsl(232, 10%, 55%)',
+       'Grayish-blue': 'hsl(210, 4%, 67%)',
+       'White': 'hsl(0, 0%, 100%)',
+       'Soft-red': 'hsl(7, 99%, 70%)',
+       'Yellow': 'hsl(51, 100%, 49%)',
+       'Dark-desaturated': 'hsl(167, 40%, 24%)',
+       'Dark-blue':' hsl(198, 62%, 26%)',
+       'Dark-moderate-cyan': 'hsl(168, 34%, 41%)',
       inherit: colors.inherit,
       current: colors.current,
       transparent: colors.transparent,

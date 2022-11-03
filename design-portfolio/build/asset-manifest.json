@@ -1,28 +1,43 @@
 {
   "files": {
-    "main.css": "/static/css/main.a823b8d4.css",
-    "main.js": "/static/js/main.e338a7fb.js",
+    "main.css": "/static/css/main.f3cd4ac2.css",
+    "main.js": "/static/js/main.25d720f3.js",
     "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
-    "static/media/image-hero-desktop.png": "/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/active-states.jpg": "/static/media/active-states.4f5563043fb6b017ff74.jpg",
+    "static/media/image-hero-desktop.png": "/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-header.jpg": "/static/media/image-header.9167cda0c72b56b2cda5.jpg",
     "static/media/image-web-3-desktop.jpg": "/static/media/image-web-3-desktop.988d05305d18140f188c.jpg",
+    "static/media/desktop-preview.jpg": "/static/media/desktop-preview.f676005a14ca4aec61a0.jpg",
+    "static/media/image-gallery-milkbottles.jpg": "/static/media/image-gallery-milkbottles.df1d9d8460e873924250.jpg",
     "static/media/image-hero-mobile.png": "/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
     "static/media/image-web-3-mobile.jpg": "/static/media/image-web-3-mobile.aff7a393740bc26b3651.jpg",
+    "static/media/image-gallery-sugarcubes.jpg": "/static/media/image-gallery-sugarcubes.09b72f4fbfbf08579f9d.jpg",
+    "static/media/image-gallery-orange.jpg": "/static/media/image-gallery-orange.373d43f1f42a447ed9a6.jpg",
+    "static/media/image-gallery-cone.jpg": "/static/media/image-gallery-cone.461ff4214c3ac822dfff.jpg",
+    "static/media/image-graphic-design.jpg": "/static/media/image-graphic-design.7ac8bdf0d3df29591a3b.jpg",
+    "static/media/image-photography.jpg": "/static/media/image-photography.104cf40b52f66520afb0.jpg",
     "static/media/image-retro-pcs.jpg": "/static/media/image-retro-pcs.4ecb8a36b05f012297a6.jpg",
+    "static/media/image-gallery-sugar-cubes.jpg": "/static/media/image-gallery-sugar-cubes.fefc3841f885fca27c53.jpg",
     "static/media/client-databiz.svg": "/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
     "static/media/logo.svg": "/static/media/logo.c6b5661f5975f9f1c10d76ac5d2a72c6.svg",
     "static/media/client-maker.svg": "/static/media/client-maker.3859368b1ba7e579d814353870c9edb0.svg",
     "static/media/client-meet.svg": "/static/media/client-meet.2d6ffbad4108ea24377c66fe7655736e.svg",
     "static/media/client-audiophile.svg": "/static/media/client-audiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.7d97118aca6da4dd308fbe5b0ad8b9d6.svg",
+    "static/media/icon-pinterest.svg": "/static/media/icon-pinterest.fd8b84da3f15023f2ae8d359495f43db.svg",
     "index.html": "/index.html",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.23df5d421d6e70c35715be06e375f403.svg",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.101bd07e99eaeae8b0f594d4908d92b0.svg",
+    "static/media/icon-arrow-down.svg": "/static/media/icon-arrow-down.979ef07a7cbb07d35f05bbaa093f7489.svg",
     "static/media/icon-menu.svg": "/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
-    "main.a823b8d4.css.map": "/static/css/main.a823b8d4.css.map",
-    "main.e338a7fb.js.map": "/static/js/main.e338a7fb.js.map"
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.7764b7eb6060edb45161f8b146f1373c.svg",
+    "main.f3cd4ac2.css.map": "/static/css/main.f3cd4ac2.css.map",
+    "main.25d720f3.js.map": "/static/js/main.25d720f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a823b8d4.css",
-    "static/js/main.e338a7fb.js"
+    "static/css/main.f3cd4ac2.css",
+    "static/js/main.25d720f3.js"
   ]
 }
