@@ -135,7 +135,7 @@ export default function Design(){
 			    	           	  <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Marketing Director</div>      
 				    	     </div>
 			    	     </div>
-			    	      <div className="flex flex-col w-full">
+			    	      <div className="w-full">
 				    	     <div className="grid justify-center h-20 md:h-32"><img className="h-[70px] w-[70px] rounded-full" src={emily}/></div>
 				    	     <div className=" h-24 md:h-28"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">Sunnyside's enthuasiasam coupled with their keen interest in our brand's success made it a satisfying ans enjoyable experience</p></div>
 				    	     <div className="flex flex-col gap-2 h-20 md:h-28 justify-end">
