@@ -20,7 +20,8 @@ module.exports = {
         'inter-regular':['inter-regular','regular'],
         Rampart: ["Rampart One", "cursive"],
         Barlow:["Barlow","regular"],
-        Fraunces:["Fraunces","regular"]
+        Fraunces:["Fraunces","regular"],
+        Rubik:['Rubik','regular']
       },
       backgroundImage: {
         '3-design-header': "url('./components/3_Design/assets/images/desktop/image-header.jpg')",
@@ -34,6 +35,8 @@ module.exports = {
         '3-design-stand-out-mobile':"url('./components/3_Design/assets/images/mobile/image-stand-out.jpg')",
         '3-design-photography-mobile':"url('./components/3_Design/assets/images/mobile/image-photography.jpg')",
         '3-design-graphics-design-mobile':"url('./components/3_Design/assets/images/mobile/image-graphic-design.jpg')",
+
+        '4-design-hero':"url('./components/4_Design/assets/images/illustration-hero.svg')",
 
       },
       letterSpacing: {

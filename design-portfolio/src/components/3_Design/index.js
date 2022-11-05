@@ -129,26 +129,26 @@ export default function Design(){
 
 			    	     <div className="w-full">
 				    	     <div className="grid justify-center h-20 md:h-32"><img className="h-[70px] w-[70px] rounded-full" src={emily}/></div>
-				    	     <div className="h-24 md:h-32"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">We put our trust in Sunnyside and they delivered,making sure our needs were met and deadline were always meet</p></div>
+				    	     <div className="h-32"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">We put our trust in Sunnyside and they delivered,making sure our needs were met and deadline were always meet</p></div>
 				    	     <div className="flex flex-col gap-2 h-20 md:h-28 justify-end">
 		                          <div className="flex justify-center font-black text-[20px] text-gray-900 font-Fraunces">Emily R.</div>
 			    	           	  <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Marketing Director</div>      
 				    	     </div>
 			    	     </div>
 			    	      <div className="w-full">
-				    	     <div className="grid justify-center h-20 md:h-32"><img className="h-[70px] w-[70px] rounded-full" src={emily}/></div>
-				    	     <div className=" h-24 md:h-28"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">Sunnyside's enthuasiasam coupled with their keen interest in our brand's success made it a satisfying ans enjoyable experience</p></div>
+				    	     <div className="grid justify-center h-20 md:h-32"><img className="h-[70px] w-[70px] rounded-full" src={thomas}/></div>
+				    	     <div className="h-32"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">Sunnyside's enthuasiasam coupled with their keen interest in our brand's success made it a satisfying and enjoyable experience</p></div>
 				    	     <div className="flex flex-col gap-2 h-20 md:h-28 justify-end">
-		                          <div className="flex justify-center font-black text-[20px] text-gray-900 font-Fraunces">Emily R.</div>
-			    	           	  <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Marketing Director</div>      
+		                          <div className="flex justify-center font-black text-[20px] text-gray-900 font-Fraunces">Thomas S.</div>
+			    	           	  <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Chief operating officer</div>      
 				    	     </div>
 			    	     </div>
 			    	      <div className="w-full">
-				    	     <div className="grid justify-center h-20 md:h-32"><img className="h-[70px] w-[70px] rounded-full" src={emily}/></div>
-				    	     <div className="h-24 md:h-28"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">We put our trust in Sunnyside and they delivered,making sure our needs were met and deadline were always meet</p></div>
+				    	     <div className="grid justify-center h-20 md:h-32"><img className="h-[70px] w-[70px] rounded-full" src={jennie}/></div>
+				    	     <div className="h-32"><p className="text-center text-lg font-Barlow font-semibold text-gray-500">We put our trust in Sunnyside and they delivered,making sure our needs were met and deadline were always meet</p></div>
 				    	     <div className="flex flex-col gap-2 h-20 md:h-28 justify-end">
-		                          <div className="flex justify-center font-black text-[20px] text-gray-900 font-Fraunces">Emily R.</div>
-			    	           	  <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Marketing Director</div>      
+		                          <div className="flex justify-center font-black text-[20px] text-gray-900 font-Fraunces">Jennie F.</div>
+			    	           	  <div className="flex justify-center font-Barlow text-sm font-semibold text-gray-400">Business Ownerr</div>      
 				    	     </div>
 			    	     </div>
 			    	  </div>
